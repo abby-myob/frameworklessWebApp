@@ -5,7 +5,7 @@
       <e p="ConsoleApp1" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="ConsoleApp1.csproj" t="IncludeRecursive" />
-        <e p="index.html" t="Include" />
+        <e p="Location.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp2.2" t="Include">
@@ -14,12 +14,13 @@
           </e>
         </e>
         <e p="Program.cs" t="Include" />
+        <e p="Server.cs" t="Include" />
       </e>
       <e p="ConsoleApp1.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
     </e>
     <e p="$USER_HOME$/Library/Caches/Rider2019.1/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_ConsoleApp1.1864788618.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_ConsoleApp1.-1403751777.00" t="ExcludeRecursive" />
     <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
   </component>
 </project>
